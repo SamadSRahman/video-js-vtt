@@ -1,0 +1,20 @@
+{
+  "name": "stackblitz-starters-xedrg9",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@videojs/http-streaming": "^3.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "video.js": "^8.6.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
